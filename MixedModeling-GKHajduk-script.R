@@ -11,7 +11,7 @@
 
 ###---- Explore the data -----###
 
-## load the data and have a look at it
+## load the data and have a look at
 
 load("dragons.RData")
 
